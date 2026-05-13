@@ -1,7 +1,7 @@
 ML systems and GPU kernel engineering.
 
 - **GPU Kernel Hackathons**:
-    - AMD MXFP4 quantization and FP4×FP4 GEMM on MI355X · [jlee5814/amd-mxfp4-gemm](https://github.com/jlee5814/amd-mxfp4-gemm)
+    - AMD MXFP4 quantization and FP4×FP4 GEMM on MI355X · (https://github.com/jlee5814/amd-mxfp4-gemm)
 
 - **ML Systems**:
     - SGLang Apple Silicon support
