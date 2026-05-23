@@ -1,8 +1,4 @@
-ML systems and GPU kernel engineering
-
-- **GPU Kernel Hackathons**:
-    - AMD MXFP4 quantization and FP4×FP4 GEMM on MI355X · (https://github.com/jlee5814/amd-mxfp4-gemm)
-    - NVIDIA NVFP4 on B200
+ML systems and GPU kernel
 
 - **ML Systems**:
     - SGLang Apple Silicon support
@@ -13,3 +9,9 @@ ML systems and GPU kernel engineering
     - Active work
         - [Apple Silicon] [MLX] Fuse SwitchGLU up_proj + gate_proj · [PR #24712](https://github.com/sgl-project/sglang/pull/24712)
         - Custom Metal kernel for MoE decode (#22283, in progress)
+
+- **GPU Kernel**:
+    - AMD MXFP4 quantization and FP4×FP4 GEMM on MI355X · (https://github.com/jlee5814/amd-mxfp4-gemm)
+    - NVIDIA NVFP4 on B200
+
+
