@@ -8,7 +8,7 @@ ML systems and GPU kernel
         - [Apple Silicon] [MLX] Auto-detect MLX-format quantization_config dict · [PR #25191](https://github.com/sgl-project/sglang/pull/25191)
     - Active work
         - [Apple Silicon] [MLX] Fuse SwitchGLU up_proj + gate_proj · [PR #24712](https://github.com/sgl-project/sglang/pull/24712)
-        - [Apple Silicon] [MLX] Fuse SwiGLU activation into gate gather_qmv for SwitchGLU MoE blocks · [PR #26188](https://github.com/sgl-project/sglang/pull/26188)
+        - [Apple Silicon] [MLX] Fuse SwiGLU activation for SwitchGLU MoE blocks · [PR #26188 (https://github.com/sgl-project/sglang/pull/26188)
 
 - **GPU Kernel**:
     - AMD MXFP4 quantization and FP4×FP4 GEMM on MI355X · (https://github.com/jlee5814/amd-mxfp4-gemm)
