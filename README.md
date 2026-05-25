@@ -11,7 +11,7 @@ ML systems and GPU kernel
         - [Apple Silicon] [MLX] Fuse SwiGLU activation for SwitchGLU MoE blocks · [PR #26188](https://github.com/sgl-project/sglang/pull/26188)
 
 - **GPU Kernel**:
-    - AMD MXFP4 quantization and FP4×FP4 GEMM on MI355X · (https://github.com/jlee5814/amd-mxfp4-gemm)
+    - AMD MXFP4 quantization and FP4×FP4 GEMM on MI355X · [amd-mxfp4-gemm](https://github.com/jlee5814/amd-mxfp4-gemm)
     - NVIDIA NVFP4 on B200
 
 
