@@ -10,7 +10,7 @@ ML systems and GPU kernel
         - [Apple Silicon] [MLX] Fuse SwiGLU activation into gate `gather_qmv` for SwitchGLU MoE blocks · [PR #26188](https://github.com/sgl-project/sglang/pull/26188)
         - [Apple Silicon] [MLX] Fix `MlxModelRunnerStub.initialize()` signature desync with base · [PR #28660](https://github.com/sgl-project/sglang/pull/28660)
     - Active work
-        - [Apple Silicon] [CI] Add model-free unit-test workflow on macos-14 · [PR #29691](https://github.com/sgl-project/sglang/pull/29691)
+        - [Apple Silicon] [CI] Add model-free unit-test workflow on macos-26 · [PR #29691](https://github.com/sgl-project/sglang/pull/29691)
          
 - **GPU Kernel**:
     - AMD MXFP4 quantization and FP4×FP4 GEMM on MI355X · [amd-mxfp4-gemm](https://github.com/jlee5814/amd-mxfp4-gemm)
