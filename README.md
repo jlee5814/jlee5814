@@ -1,7 +1,7 @@
 ML systems and GPU kernel
 
 - **ML Systems**:
-    - SGLang: active contributor · [MLX](https://github.com/sgl-project/sglang/pulls?q=author:jlee5814)
+    - SGLang: active contributor · [MLX](https://github.com/sgl-project/sglang/pulls?q=involves%3Ajlee5814)
         - Apple Device Support · [MoE lead](https://github.com/sgl-project/sglang/issues/22283)
 
 - **GPU Kernel**:
