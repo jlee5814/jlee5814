@@ -6,6 +6,6 @@ ML systems and GPU kernel
 
 - **GPU Kernel**:
     - AMD MXFP4 quantization and FP4×FP4 GEMM on MI355X · [amd-mxfp4-gemm](https://github.com/jlee5814/amd-mxfp4-gemm)
-    - NVIDIA NVFP4 on B200
+    - NVIDIA Blackwell NVFP4 on B200
 
 
