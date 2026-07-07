@@ -1,7 +1,7 @@
 ML systems and GPU kernel
 
 - **ML Systems**:
-    - SGLang: active contributor to [Apple Silicon] [MLX]
+    - SGLang: active contributor to [MLX](https://github.com/sgl-project/sglang/pulls?q=author:jlee5814)
         - Apple Device Support (2026 Q2) · MoE performance lead · [Issue #22283](https://github.com/sgl-project/sglang/issues/22283)
 
 - **GPU Kernel**:
